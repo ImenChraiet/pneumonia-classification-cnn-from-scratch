@@ -24,7 +24,7 @@ A presentation is included, providing a comprehensive journey through **Convolut
 
 -**Performance Analysis:** A discussion of the initial model's performance, the investigation into **class imbalance** as a potential factor affecting performance, and the subsequent improvement after balancing the classes, with accuracy increasing from **78% to 89%**.
 
-> **From theory to practice:** The presentation does not simply present the final CNN model. It explains the **reasoning behind the decisions that led to it** — from understanding every architectural layer and its purpose, to selecting the optimizer and learning-rate strategy, and finally applying these choices to a real-world pneumonia classification problem.
+> **From theory to practice:** The presentation does not simply present the final CNN model. It explains the **reasoning behind the decisions that led to it**  from understanding every architectural layer and its purpose, to selecting the optimizer and learning-rate strategy, and finally applying these choices to a real-world pneumonia classification problem.
 
 
 ## From Initial Model to Improved Performance (2 files)
