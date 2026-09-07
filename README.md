@@ -3,7 +3,7 @@ Pneumonia classification from chest X-ray images using a Convolutional Neural Ne
 
 
 
-Acknowledgments
+## Acknowledgments
 
 The dataset used in this project was obtained from the following Mendeley Data repository:
 
