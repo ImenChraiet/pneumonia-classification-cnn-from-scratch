@@ -1,7 +1,8 @@
 # pneumonia-classification-CNN-from-scratch
 Pneumonia classification from chest X-ray images using a Convolutional Neural Network (CNN) built entirely from scratch layer by layer, without using any pretrained models.
 
-## Canvas Presentation link :
+## Canvas Presentation link : 
+[Link Text](https://canva.link/vg1bds4f3i70o1u)
 A presentation is included, providing a comprehensive journey through **Convolutional Neural Networks (CNNs)**:
 
 - I did not just build a CNN and report an accuracy. I explained why I built it the way I did and why each choice was made.
